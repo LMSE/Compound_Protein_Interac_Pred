@@ -5,7 +5,7 @@ The repository includes codes for reproducing work in paper _Enzyme Activity Pre
 The figure below shows the prediction model's architechture,
 
 <p align="center">
-  <img width="800"  src="https://github.com/LMSE/CmpdEnzymPred/blob/main/Architecture_2.png">
+  <img width="800"  src="https://user-images.githubusercontent.com/47986787/167860254-fa45afa3-a81c-41f5-933d-68e460a70dcf.png">
 </p>
 
 
