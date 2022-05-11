@@ -4,8 +4,9 @@ The repository includes codes for reproducing work in paper _Enzyme Activity Pre
 
 The figure below shows the prediction model's architechture,
 
-<img src="https://github.com/LMSE/CmpdEnzymPred/blob/main/Architecture_2.png" width="600"  />
+<img align="center" src="https://github.com/LMSE/CmpdEnzymPred/blob/main/Architecture_2.png" width="1200"  />
 
 We were able to show a substantial improvements with the new pipeline as we tested the predictions on multiple enzyme-substrate-activity datasets (i.e. aminotransferase, kinase, halogenase, phosphatase, etc. ) as shown in the table below.
 
-![image](https://user-images.githubusercontent.com/47986787/167858775-a68e8706-4f7f-4aee-a368-f48f64727ea2.png)
+<img align="center" src="https://user-images.githubusercontent.com/47986787/167858775-a68e8706-4f7f-4aee-a368-f48f64727ea2.png" width="1200"  />
+
